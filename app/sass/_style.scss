@@ -1,0 +1,92 @@
+.app {
+	background: #ffffff;
+
+	.wr-header {
+		width: 100%; height: 76px; position: absolute; top: 0; left: 0; z-index: 5; 
+		background: transparent; border-bottom: solid 1px #3f376f;
+	}
+
+	.wr-intro {
+		width: 100%; padding-top: 260px; padding-bottom: 260px; position: relative; z-index: 4; overflow: hidden;
+		background: url('../img/intro-bg.jpg') center 0 no-repeat; background-size: cover;
+	}
+
+	.wr-for_what {
+		padding: 70px 0 45px;
+		background: url('../img/for_what-bg.jpg') center 0 no-repeat; background-size: cover;
+	}
+
+	.wr-interesting {
+		padding: 60px 0 40px;
+		background: url('../img/interesting-bg.jpg') center 0 no-repeat; background-size: cover;
+	}
+
+	.wr-brain_use {
+		padding: 50px 0;
+		background: url('../img/brain_use-bg.jpg') center 0 no-repeat; background-size: cover;
+	}
+
+	.wr-about_salary {
+		padding: 75px 0 70px;
+		background: url('../img/about_salary-bg.jpg') center 0 no-repeat; background-size: cover;
+	}
+
+	.wr-study_intro {
+		background: url('../img/study_intro-bg.jpg') center 0 repeat;
+	}
+
+	.wr-order_webinar {
+		padding: 120px 0 126px;
+		background: url('../img/order_webinar-bg.jpg') center 0 no-repeat; background-size: cover;
+	}
+
+	.wr-work_for {
+		padding: 61px 0 60px; position: relative;
+		background: #ffe500;
+	}
+
+	.wr-study_steps {
+		padding:  51px 0 36px; overflow: hidden;
+		background: #ffffff;
+	}
+
+	.wr-study_steps-footer {
+		padding: 45px 0 50px;
+		background: url('../img/study_steps-footer-bg.jpg') center 0 repeat;
+	}
+
+	.wr-comments {
+		padding: 85px 0 100px;
+		background: #f5f5f5;
+	}
+
+	.wr-mysteries {
+		padding: 130px 0 90px;
+		background: url('../img/mysteries-bg.jpg') center 0 no-repeat; background-size: cover;
+	}
+
+	.wr-study_level {
+		padding: 90px 0 125px;
+		background: url('../img/study_level-bg.jpg') center 0 no-repeat; background-size: cover;
+	}
+
+	.wr-advantages {
+		padding: 75px 0 115px;
+		background: url('../img/advantages-bg.jpg') center 0 no-repeat; background-size: cover;
+	}
+
+	.wr-order_webinar-2 {
+		padding: 80px 0 240px;
+		background: url('../img/order_webinar-2-bg.jpg') center 0 no-repeat; background-size: cover;
+	}
+
+	.wr-results {
+		padding: 120px 0 520px;
+		background: url('../img/results-bg.jpg') center 0 no-repeat; background-size: cover;
+	}
+
+	.wr-footer {
+		padding: 65px 0 120px;
+		box-shadow: 0px -20px 80px 0px #ffffff;
+	}
+}

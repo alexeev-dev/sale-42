@@ -1,0 +1,360 @@
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+Example usage in HTML:
+
+`display: block` sprite:
+<div class="icon-home"></div>
+
+To change `display` (e.g. `display: inline-block;`), we suggest using a common CSS class:
+
+// CSS
+.icon {
+  display: inline-block;
+}
+
+// HTML
+<i class="icon icon-home"></i>
+*/
+.icon-analitics-def {
+  background-image: url(sprite.png);
+  background-position: -204px -112px;
+  width: 19px;
+  height: 15px;
+}
+.icon-analitics {
+  background-image: url(sprite.png);
+  background-position: -78px -217px;
+  width: 19px;
+  height: 15px;
+}
+.icon-arrow {
+  background-image: url(sprite.png);
+  background-position: -270px 0px;
+  width: 32px;
+  height: 40px;
+}
+.icon-attention {
+  background-image: url(sprite.png);
+  background-position: -159px -196px;
+  width: 19px;
+  height: 19px;
+}
+.icon-boop {
+  background-image: url(sprite.png);
+  background-position: -216px -160px;
+  width: 13px;
+  height: 21px;
+}
+.icon-brain-small-def {
+  background-image: url(sprite.png);
+  background-position: -195px -160px;
+  width: 21px;
+  height: 21px;
+}
+.icon-brain-small {
+  background-image: url(sprite.png);
+  background-position: -78px -196px;
+  width: 21px;
+  height: 21px;
+}
+.icon-brain {
+  background-image: url(sprite.png);
+  background-position: -161px 0px;
+  width: 70px;
+  height: 82px;
+}
+.icon-brush-def {
+  background-image: url(sprite.png);
+  background-position: 0px -257px;
+  width: 17px;
+  height: 25px;
+}
+.icon-brush {
+  background-image: url(sprite.png);
+  background-position: -17px -257px;
+  width: 17px;
+  height: 25px;
+}
+.icon-buisnessman {
+  background-image: url(sprite.png);
+  background-position: -139px -196px;
+  width: 20px;
+  height: 20px;
+}
+.icon-calculate {
+  background-image: url(sprite.png);
+  background-position: -164px -89px;
+  width: 40px;
+  height: 40px;
+}
+.icon-cite-quotes {
+  background-image: url(sprite.png);
+  background-position: -270px -40px;
+  width: 29px;
+  height: 25px;
+}
+.icon-coins {
+  background-image: url(sprite.png);
+  background-position: -196px -196px;
+  width: 18px;
+  height: 18px;
+}
+.icon-dollars {
+  background-image: url(sprite.png);
+  background-position: -117px -160px;
+  width: 36px;
+  height: 34px;
+}
+.icon-dream-def {
+  background-image: url(sprite.png);
+  background-position: -270px -155px;
+  width: 22px;
+  height: 22px;
+}
+.icon-dream {
+  background-image: url(sprite.png);
+  background-position: -270px -177px;
+  width: 22px;
+  height: 22px;
+}
+.icon-eye-def {
+  background-image: url(sprite.png);
+  background-position: -286px -222px;
+  width: 16px;
+  height: 10px;
+}
+.icon-eye {
+  background-image: url(sprite.png);
+  background-position: -270px -222px;
+  width: 16px;
+  height: 10px;
+}
+.icon-flag-def {
+  background-image: url(sprite.png);
+  background-position: -68px -233px;
+  width: 16px;
+  height: 18px;
+}
+.icon-flag {
+  background-image: url(sprite.png);
+  background-position: -52px -233px;
+  width: 16px;
+  height: 18px;
+}
+.icon-hand-gray {
+  background-image: url(sprite.png);
+  background-position: -82px -160px;
+  width: 35px;
+  height: 36px;
+}
+.icon-hand {
+  background-image: url(sprite.png);
+  background-position: 0px -233px;
+  width: 18px;
+  height: 24px;
+}
+.icon-head {
+  background-image: url(sprite.png);
+  background-position: -119px -89px;
+  width: 45px;
+  height: 53px;
+}
+.icon-heart-def {
+  background-image: url(sprite.png);
+  background-position: -270px -135px;
+  width: 25px;
+  height: 20px;
+}
+.icon-heart {
+  background-image: url(sprite.png);
+  background-position: -270px -115px;
+  width: 25px;
+  height: 20px;
+}
+.icon-idea {
+  background-image: url(sprite.png);
+  background-position: -89px 0px;
+  width: 72px;
+  height: 81px;
+}
+.icon-light-def {
+  background-image: url(sprite.png);
+  background-position: -204px -89px;
+  width: 21px;
+  height: 23px;
+}
+.icon-light-gray {
+  background-image: url(sprite.png);
+  background-position: -231px -156px;
+  width: 38px;
+  height: 38px;
+}
+.icon-light {
+  background-image: url(sprite.png);
+  background-position: -153px -160px;
+  width: 21px;
+  height: 23px;
+}
+.icon-like {
+  background-image: url(sprite.png);
+  background-position: -59px -89px;
+  width: 60px;
+  height: 66px;
+}
+.icon-man-blue {
+  background-image: url(sprite.png);
+  background-position: -291px -90px;
+  width: 10px;
+  height: 22px;
+}
+.icon-man-red {
+  background-image: url(sprite.png);
+  background-position: -291px -65px;
+  width: 10px;
+  height: 22px;
+}
+.icon-mind {
+  background-image: url(sprite.png);
+  background-position: -18px -233px;
+  width: 18px;
+  height: 20px;
+}
+.icon-money {
+  background-image: url(sprite.png);
+  background-position: -231px -117px;
+  width: 39px;
+  height: 39px;
+}
+.icon-numbers-def {
+  background-image: url(sprite.png);
+  background-position: -214px -196px;
+  width: 18px;
+  height: 18px;
+}
+.icon-numbers {
+  background-image: url(sprite.png);
+  background-position: -232px -196px;
+  width: 18px;
+  height: 18px;
+}
+.icon-participate {
+  background-image: url(sprite.png);
+  background-position: -44px -160px;
+  width: 38px;
+  height: 36px;
+}
+.icon-planet {
+  background-image: url(sprite.png);
+  background-position: -231px -78px;
+  width: 39px;
+  height: 39px;
+}
+.icon-pump {
+  background-image: url(sprite.png);
+  background-position: 0px -89px;
+  width: 59px;
+  height: 71px;
+}
+.icon-purse {
+  background-image: url(sprite.png);
+  background-position: -84px -233px;
+  width: 16px;
+  height: 16px;
+}
+.icon-rise {
+  background-image: url(sprite.png);
+  background-position: -119px -196px;
+  width: 20px;
+  height: 20px;
+}
+.icon-runner-gray {
+  background-image: url(sprite.png);
+  background-position: -231px 0px;
+  width: 39px;
+  height: 39px;
+}
+.icon-runner {
+  background-image: url(sprite.png);
+  background-position: -41px -196px;
+  width: 37px;
+  height: 37px;
+}
+.icon-search-def {
+  background-image: url(sprite.png);
+  background-position: -250px -196px;
+  width: 18px;
+  height: 18px;
+}
+.icon-search-gray {
+  background-image: url(sprite.png);
+  background-position: -164px -129px;
+  width: 13px;
+  height: 13px;
+}
+.icon-search {
+  background-image: url(sprite.png);
+  background-position: -178px -196px;
+  width: 18px;
+  height: 18px;
+}
+.icon-shopping {
+  background-image: url(sprite.png);
+  background-position: -36px -233px;
+  width: 16px;
+  height: 20px;
+}
+.icon-slider {
+  background-image: url(sprite.png);
+  background-position: -99px -196px;
+  width: 20px;
+  height: 20px;
+}
+.icon-speak-def {
+  background-image: url(sprite.png);
+  background-position: -174px -160px;
+  width: 21px;
+  height: 23px;
+}
+.icon-speak {
+  background-image: url(sprite.png);
+  background-position: -270px -199px;
+  width: 21px;
+  height: 23px;
+}
+.icon-stand {
+  background-image: url(sprite.png);
+  background-position: -231px -39px;
+  width: 39px;
+  height: 39px;
+}
+.icon-study {
+  background-image: url(sprite.png);
+  background-position: 0px -160px;
+  width: 44px;
+  height: 36px;
+}
+.icon-webprogramming {
+  background-image: url(sprite.png);
+  background-position: 0px -196px;
+  width: 41px;
+  height: 37px;
+}
+.icon-worldwide {
+  background-image: url(sprite.png);
+  background-position: 0px 0px;
+  width: 89px;
+  height: 89px;
+}
+.icon-zen-def {
+  background-image: url(sprite.png);
+  background-position: -270px -90px;
+  width: 21px;
+  height: 25px;
+}
+.icon-zen {
+  background-image: url(sprite.png);
+  background-position: -270px -65px;
+  width: 21px;
+  height: 25px;
+}
